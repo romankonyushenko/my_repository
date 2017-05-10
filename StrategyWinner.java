@@ -7,5 +7,9 @@ public class StrategyWinner implements Strategy {
 		// TODO Auto-generated method stub
 		return null;
 	}
+	
+	public double getPrice(){
+		return price;
+	}
 
 }

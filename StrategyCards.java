@@ -10,4 +10,7 @@ public class StrategyCards implements Strategy {
 		return null;
 	}
 
+	public double getPrice(){
+		return price;
+	}
 }

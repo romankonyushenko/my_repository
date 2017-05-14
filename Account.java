@@ -16,7 +16,7 @@ public class Account {
 		return account;
 	}
 
-	public void addToAcount(double sum) {
+	public void addToAccount(double sum) {
 		this.account += sum;
 	}
 
